@@ -4,4 +4,4 @@
 
 `Кофигурационный файл HAProxy есть в репозитории`
 ![HAProxy.cfg](./img/haproxy_cfg.png)
-![HAProxyBalance](./img/haproxy_balance.png) 
+![HAProxyBalance](./img/haproxy_tcp.png) 
