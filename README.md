@@ -5,3 +5,6 @@
 `Кофигурационный файл HAProxy есть в репозитории`
 ![HAProxy.cfg](./img/haproxy_cfg.png)
 ![HAProxyBalance](./img/haproxy_tcp.png) 
+
+### Задание 2
+![HAProxy with acl](./img/HAProxy_acl.png)
